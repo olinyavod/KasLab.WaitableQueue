@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AsyncWaitableQueue.cs" />
+    <Compile Include="IAsyncWaitableQueue.cs" />
     <Compile Include="IWaitableQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WaitableQueue.cs" />
