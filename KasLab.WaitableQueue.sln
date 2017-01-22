@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KasLab.WaitableQueue.Lib", "KasLab.WaitableQueue.Lib\KasLab.WaitableQueue.Lib.csproj", "{D255F907-8373-46B5-91D6-0A4DA0BCBA2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KasLab.WaitableQueue.Tests", "KasLab.WaitableQueue.Tests\KasLab.WaitableQueue.Tests.csproj", "{41C97717-DFB5-43A6-A262-BA7B0E148B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D255F907-8373-46B5-91D6-0A4DA0BCBA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D255F907-8373-46B5-91D6-0A4DA0BCBA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D255F907-8373-46B5-91D6-0A4DA0BCBA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D255F907-8373-46B5-91D6-0A4DA0BCBA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C97717-DFB5-43A6-A262-BA7B0E148B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C97717-DFB5-43A6-A262-BA7B0E148B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C97717-DFB5-43A6-A262-BA7B0E148B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C97717-DFB5-43A6-A262-BA7B0E148B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
